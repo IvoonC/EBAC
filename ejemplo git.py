@@ -15,8 +15,6 @@ print ('resultado=' ,c)
 ## Cambiado el factor 110 según Junta Control
 ## Cambio a factor 200 por Directorio
 
-d=c * 200
-=======
-d=c * 100
+d= c * 200
 print ('resultado total=', d)
 
